@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Investotest/static/css/main.c2d43018.css",
+    "main.js": "/Investotest/static/js/main.66e88c6f.js",
+    "static/js/453.73eb131c.chunk.js": "/Investotest/static/js/453.73eb131c.chunk.js",
+    "index.html": "/Investotest/index.html",
+    "main.c2d43018.css.map": "/Investotest/static/css/main.c2d43018.css.map",
+    "main.66e88c6f.js.map": "/Investotest/static/js/main.66e88c6f.js.map",
+    "453.73eb131c.chunk.js.map": "/Investotest/static/js/453.73eb131c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d43018.css",
+    "static/js/main.66e88c6f.js"
+  ]
+}
